@@ -1,1 +1,2 @@
-# turn_based_combat_game
+Description
+                            This code implements a turn-based battle simulator game where two players choose character types (Fire, Water, Grass, or Normal) and engage in combat by taking turns. Players can select from a set of moves specific to their character type, use items to gain tactical advantages, and their attacks can deal variable damage based on type effectiveness. The game includes features such as health status tracking, coin flips to decide turn order, and the ability to save game progress. Players can also utilize special items to heal, double their damage, skip coin flips, or change their character type randomly, adding strategic depth to the gameplay.
